@@ -10,7 +10,7 @@
 ## Natural Views
 
 ![Image](C:\DylanGIS\data\rrg-collage.jpg "collage")
-<img src="C:\DylanGIS\data\rrg-collage.jpg">
+<!--Since the 'data' folder is outside of the repositories folder, when we push the commits the images will not go with it. How does this affect our works? Are we not supposed to use the data folder for things like this?-->
 
 ## Activities
 
