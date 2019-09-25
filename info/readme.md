@@ -15,8 +15,7 @@
 
 ## Activities
 
-The area is a very popular destination for many hikers, campers, and outdoors enthusiasts across the country. In an area so large with dozens of trails and countless points of interest, a map is a necessity. Here is a link to a wonderful
-[map](https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/stelprdb5276793.pdf "Trail and Camping Map").
+The area is a very popular destination for many hikers, campers, and outdoors enthusiasts across the country. In an area so large with dozens of trails and countless points of interest, a map is a necessity. Here is a link to a wonderful [map](https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/stelprdb5276793.pdf) detailing Trail and Camping opportunities.
 
 ### Sources
 
