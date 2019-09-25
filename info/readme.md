@@ -10,7 +10,8 @@
 
 ![Image](rrg-collage.jpg)
 <!-- OK! The photoggraph can be moved to this info folder. You can also link a photograph from an external resource as shown in the below example.-->
-![Chimney Top](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/View_of_Chimney_Top_Rock.JPG/1920px-View_of_Chimney_Top_Rock.JPG)
+![Chimney Top](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/View_of_Chimney_Top_Rock.JPG/1920px-View_of_Chimney_Top_Rock.JPG)   
+*Chimney Top Rock. Source: Wikipedia*
 <!--Since the 'data' folder is outside of the repositories folder, when we push the commits the images will not go with it. How does this affect our works? Are we not supposed to use the data folder for things like this?-->
 
 ## Activities
